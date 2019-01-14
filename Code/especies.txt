@@ -1,0 +1,10 @@
+Abelha 3 4
+Cao 3 5
+Esquilo 8 10
+Gato 2 8
+Javali 9 12
+Leao 12 4
+Porco 20 2
+Raposa 10 10
+Rato 6 8
+Vaca 7 9
